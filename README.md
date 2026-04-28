@@ -1,4 +1,4 @@
-## 박소영
+![header](https://capsule-render.vercel.app/api?type=wave&color=46EBE1&height=300&section=header&text=SO%20YOUNG&fontSize=90)
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript">
 <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring">

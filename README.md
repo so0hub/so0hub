@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=46EBE1&height=300&section=header&text=SO%20YOUNG&fontSize=90)
-
 <div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=46EBE1&height=300&section=header&text=SO%20YOUNG&fontSize=90" width="100%" />
 
 ## ⚡ Information
 - 🎓 산업경영공학 전공
 - 💻 메인 스택: Java, Spring Boot, React
 - 🐹 효율적인 로직을 좋아합니다.
-- 이메일 : so0mile02@gmail.com
-- 뫄뫄뫄
+- 이메일 : havesomeso0p@gmail.com
 
 ### 🛠 Tech Stack
 
@@ -25,18 +25,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=so0hub&show_icons=true&theme=radical)
-
-<br/>
-
 ### 🏆 Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
-
-
-
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)

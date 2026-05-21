@@ -42,6 +42,6 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=46EBE1&height=400&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=46EBE1&height=200&section=footer" width="100%" />
 
 </div>

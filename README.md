@@ -3,7 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=46EBE1&height=300&section=header&text=SO%20YOUNG&fontSize=90" width="100%" />
 
-## ⚡ Information
+
+<div align="center">
+  <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=so0hub&gen=gen1&starter=bulbasaur" alt="My Pokemon" />
+</div>
+
 - 🎓 산업경영공학 전공
 - 💻 메인 스택: Java, Spring Boot, React
 - 🐹 효율적인 로직을 좋아합니다.

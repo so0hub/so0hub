@@ -41,7 +41,7 @@
 ### 🏆 Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!-- 하단 데코레이션: 귀여운 고양이가 도망가는 애니메이션 픽셀아트 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=46EBE1&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=46EBE1&height=400&section=footer" width="100%" />
 
 </div>

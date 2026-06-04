@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=46EBE1&height=300&section=header&text=SO%20YOUNG&fontSize=85&fontAlignY=44" width="100%" />
 
-<!-- 포켓몬 등장! -->
-<div align="center">
-  <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=so0hub&gen=gen1&starter=bulbasaur" alt="My Pokemon" />
-</div>
 
 <br/>
 
@@ -40,7 +36,10 @@
 
 ### 🏆 Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+<!-- 포켓몬 등장! -->
+<div align="center">
+  <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=so0hub&gen=gen1&starter=bulbasaur" alt="My Pokemon" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46EBE1&height=200&section=footer" width="100%" />
 
